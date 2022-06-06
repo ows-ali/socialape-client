@@ -1,0 +1,11 @@
+import React, { Component } from 'react';
+
+class EditDetails extends Component {
+  render() {
+    return (
+      <div> textInComponent </div>
+    );
+  }
+}
+
+export default EditDetails;
